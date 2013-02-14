@@ -8,7 +8,7 @@
 	<parent>
 		<groupId>it.sayservice.platform</groupId>
 		<artifactId>servicebus-conf</artifactId>
-		<version>1.2</version>
+		<version>1.3</version>
 	</parent>
 
 	<dependencies>
