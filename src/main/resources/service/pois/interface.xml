@@ -3,9 +3,7 @@
 
 	<interface serviceURI="eu.trentorise.smartcampus.services.pois.ServicesPois">
 		<operation name="GetPois" storable="true">
-			<parameter name="source" type="String"/>
-			<parameter name="token" type="String"/>
-			<parameter name="overrideLocation" type="String"/>
+			<parameter name="serviceId" type="String"/>
 			<output type="eu.trentorise.smartcampus.services.pois.data.message.Pois$GenericPOI" repeated="true"/>
 		</operation>
 	</interface>
