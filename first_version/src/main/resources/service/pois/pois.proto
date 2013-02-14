@@ -1,0 +1,33 @@
+package eu.trentorise.smartcampus.services.pois.data.message;
+
+import "core.proto";
+
+message DBPOI {
+	required string poiId = 1;
+	required string city = 2;
+	required string country = 3;
+	required double latitude = 4;
+	required double longitude = 5;
+	required string postalCode = 6;	
+	required string region = 7;
+	required string state = 8;
+	required string street = 9;
+	required string datasetId = 10;		
+	optional string description = 11;
+	optional string customData = 12;		
+}
+
+message DBTag {
+	required string poidb_poiId = 1;
+	required string element = 2;
+}
+
+message GenericPOI {
+	required string id = 1;
+	required string title = 2;
+	optional string description = 3;
+	required string source = 4;
+	optional string type = 5;
+	optional string customData = 6;
+	optional it.sayservice.platform.core.message.POI poiData = 7;
+}
