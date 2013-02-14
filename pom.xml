@@ -59,11 +59,20 @@
                             <methods>
                               <method>
                                  <methodName>GetPois</methodName>
+                                    <defaultParameters>
+                                        <parameters>
+                                            <parameter>
+                                                <key>serviceId</key>
+                                                <value>eu.trentorise.smartcampus.services.pois.ServicesPois</value>
+                                                <type>java.lang.String</type>
+                                            </parameter>
+                                        </parameters> 
+                                    </defaultParameters> 
 									<statusParameters>
 										<storable>true</storable>
 										<automaticRefresh>true</automaticRefresh>
 										<delay>#{1000L*15}</delay>
-										<period>#{1000L*60*60*24}</period>
+										<period>#{1000L*60*60*24*7}</period>
 										<periodOnDefault>#{1000L*60*60*24}</periodOnDefault>
 										<periodOnFailure>#{1000L*60*60*24}</periodOnFailure>
 										<cacheValidityPeriod>#{1000L*60*60*24*15}</cacheValidityPeriod>

@@ -6,13 +6,13 @@
 	<variable name="tags" type="java.util.List&lt;eu.trentorise.smartcampus.services.pois.data.message.Pois.DBTag&gt;" />
 	
 	<dbConnector name="dbConnector1" datasourceRef="poids" protoClass="eu.trentorise.smartcampus.services.pois.data.message.Pois$DBPOI" fullyPopulated="false">
-		<query>"SELECT * FROM smart.poidb p where poiId like '%" + serviceId + "%'"</query>
+		<query>"SELECT * FROM poidb p where poiId like '%" + serviceId + "%'"</query>
 		<arguments>
 		</arguments>
 	</dbConnector>
 	
 	<dbConnector name="dbConnector2" datasourceRef="poids" protoClass="eu.trentorise.smartcampus.services.pois.data.message.Pois$DBTag" fullyPopulated="false">
-		<query>"SELECT poidb_poiId as poidbpoiId,element as element  FROM smart.poidb_tags p where poidb_poiId like '%" + serviceId + "%'"</query>
+		<query>"SELECT poidb_poiId as poidbpoiId,element as element  FROM poidb_tags p where poidb_poiId like '%" + serviceId + "%'"</query>
 		<arguments>
 		</arguments>
 	</dbConnector>	
