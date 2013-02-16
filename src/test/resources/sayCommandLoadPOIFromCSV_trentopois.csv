@@ -1,4 +1,13 @@
-Bookique@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.066535;11.116582;0;WGS84;ITA;Italy;TN;Trento;38122;Via Torre D'Augusto 29;en;biblioteca
+Bookique@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.066535;11.116582;0;WGS84;ITA;Italy;TN;Trento;38122;Via Torre D'Augusto 29;en;bar
+Flambard Pub@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.050066;11.131129;0;WGS84;ITA;Italy;TN;Trento;38123;viale degli Olmi 4;en;bar
+Officina Gambrinus@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.127906;11.109264;0;WGS84;ITA;Italy;TN;Trento;38121;via Alto Adige 164/B;en;bar
+OSTERIA TRENTINA@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.069555;11.11987;0;WGS84;ITA;Italy;TN;Trento;38122;via Roma 48;en;ristorante
+Café de la Paix Trento@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.070788;11.125308;0;WGS84;ITA;Italy;TN;Trento;38122;passaggio Teatro Osele;en;bar
+Osteria La Scaletta@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.068569;11.125495;0;WGS84;ITA;Italy;TN;Trento;38122;via S. Maria Maddalena;en;ristorante
+FBK@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.06744;11.150587;0;WGS84;ITA;Italy;TN;Trento;38123;via Sommarive 18 Povo;en;ufficio
+PIAZZA FIERA TRENTO@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.06524;11.12336;0;WGS84;ITA;Italy;TN;Trento;38122;piazza di Fiera;en;luogo
+Al Porteghet@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.071509;11.124419;0;WGS84;ITA;Italy;TN;Trento;38122;Passaggio Dorigoni 3;en;bar
+La Libreria Erickson@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.108334;11.106797;0;WGS84;ITA;Italy;TN;Trento;38122;via del Pioppeto 24;en;bar
 Museo dell'aeronautica G. Caproni@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.023578;11.127005;0;WGS84;ITA;Italy;TN;Trento;38123;via Lidorno, 3 - Mattarello;en;museo
 Piedicastello - Le Gallerie@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.071595;11.113545;0;WGS84;ITA;Italy;TN;Trento;38123;Piazza di Piedicastello;en;esposizione
 Torre Vanga@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.070283;11.12064;0;WGS84;ITA;Italy;TN;Trento;38123;piazza della Portela, 1;en;museo
@@ -11,7 +20,7 @@ Spazio Espositivo Pretto@eu.trentorise.smartcampus.services.pois.ServicesPois;sm
 Spazio Off@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.069624;11.128651;0;WGS84;ITA;Italy;TN;Trento;38123;Via Venezia, 5;en;esposizione
 Barycentro@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.068981;11.12889;0;WGS84;ITA;Italy;TN;Trento;38123;piazza Venezia, 38;en;ufficio
 Conservatorio@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.068701;11.125489;0;WGS84;ITA;Italy;TN;Trento;38123;via S.M. Maddalena, 1;en;sala
-Monte Bondone - Auditorium di Vaneze@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.048753;11.066982;0;WGS84;ITA;Italy;TN;Trento;38123;Vaneze;en;sala
+Monte Bondone - Auditorium di Vaneze@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.048753;11.066982;0;WGS84;ITA;Italy;TN;Trento;38123;Vaneze;en;teatro
 Sede Sosat@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.068593;11.123268;0;WGS84;ITA;Italy;TN;Trento;38123;Via Malpaga, 17;en;ufficio
 Villamontagna@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.085856;11.159532;0;WGS84;ITA;Italy;TN;Trento;38123;Piazza di Villamontagna;en;luogo
 Oltrefersina@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.051614;11.128225;0;WGS84;ITA;Italy;TN;Trento;38123;Via Clarina, 2/1;en;ufficio
@@ -25,7 +34,7 @@ Palazzo Geremia@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.0
 Ravina - Sala Claudio Dematté@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.037947;11.107396;0;WGS84;ITA;Italy;TN;Trento;38123;Via Belvedere, 4;en;sala
 Gazzadina@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.154426;11.13768;0;WGS84;ITA;Italy;TN;Trento;38123;piazza Madonna di Caravaggio;en;luogo
 Teatro Concordia di Povo@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.064466;11.153859;0;WGS84;ITA;Italy;TN;Trento;38123;Via don Tommaso Dallafior, 1;en;teatro
-Oratorio S. Antonio@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.145165;11.192622;0;WGS84;ITA;Italy;TN;Trento;38123;via S. Antonio 22;en;sala
+Oratorio S. Antonio@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.145165;11.192622;0;WGS84;ITA;Italy;TN;Trento;38123;via S. Antonio 22;en;teatro
 Chiesa parrocchiale di Cristo Re@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.077975;11.117148;0;WGS84;ITA;Italy;TN;Trento;38123;Via Giacomo Bresadola;en;sala
 Liceo Rosmini@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.061231;11.125079;0;WGS84;ITA;Italy;TN;Trento;38123;Via Bartolomeo Malfatti 2;en;sala
 Associazione Darshan@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.066783;11.1276;0;WGS84;ITA;Italy;TN;Trento;38123;Via Dei Paradisi 15/3;en;sala
@@ -37,3 +46,5 @@ Ecosportello Fa' la cosa giusta@eu.trentorise.smartcampus.services.pois.Services
 Spazio archeologico sotterraneo del Sas@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.069494;11.123574;0;WGS84;ITA;Italy;TN;Trento;38123;Piazza Cesare Battisti;en;museo
 Centro per la Formazione alla Solidarietà Internazionale@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.069766;11.125712;0;WGS84;ITA;Italy;TN;Trento;38123;Vicolo San Marco 1;en;ufficio
 Biblioteca Comunale - Mattarello@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.005838;11.128989;0;WGS84;ITA;Italy;TN;Trento;38123;via Guido Poli 6;en;biblioteca
+Teatro Portland@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.070149;11.111909;0;WGS84;ITA;Italy;TN;Trento;38123;via Papiria 8;en;teatro
+Tikkit Showroom@eu.trentorise.smartcampus.services.pois.ServicesPois;smart;;46.072449;11.125173;0;WGS84;ITA;Italy;TN;Trento;38123;Via S. Martino 80;en;sala
